@@ -1,6 +1,6 @@
 numpy
 matplotlib
-pandas
+pandas==0.25.3
 scipy
 sklearn
 IPython
